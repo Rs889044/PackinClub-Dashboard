@@ -26,4 +26,4 @@ Manage customers, products, invoices, quotations, and orders in one place.
 
 ## Data
 
-All data is saved locally in `dashboard.db`. To backup, just copy that file.
+All data is saved locally in `dashboard.db`. To backup, just copy that file. if you delete that file all transaction data will be delete. if required make a backup of that file.
