@@ -3,7 +3,7 @@
 
 Manage customers, products, invoices, quotations, and orders in one place.
 
-## Quick Start (No coding needed!)
+## Quick Start
 
 1. Download this project → Click green **"Code"** button → **"Download ZIP"**
 2. Unzip the folder anywhere on your computer
